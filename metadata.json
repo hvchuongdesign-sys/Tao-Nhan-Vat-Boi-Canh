@@ -1,0 +1,5 @@
+{
+  "name": "GiVa Photo AI",
+  "description": "An application for creating consistent character images using AI. Users can upload or generate reference characters and backgrounds, then combine them into a final scene with a descriptive prompt.",
+  "requestFramePermissions": []
+}
